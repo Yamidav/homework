@@ -1,0 +1,12 @@
+#formblock {
+	font-family: times new roman, arial, sans-serif;
+	margin-right: 40px;
+	position: fixed;
+	top: 60px;
+	right: 10px
+}
+.textblock {
+	float: left-side;
+	width: 600px;
+	clear: right
+}
